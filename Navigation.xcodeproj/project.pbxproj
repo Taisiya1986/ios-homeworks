@@ -13,6 +13,7 @@
 		0B004FB128D7B25900DBCC7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B004FAF28D7B25900DBCC7B /* Main.storyboard */; };
 		0B004FB328D7B25C00DBCC7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B004FB228D7B25C00DBCC7B /* Assets.xcassets */; };
 		0B004FB628D7B25C00DBCC7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B004FB428D7B25C00DBCC7B /* LaunchScreen.storyboard */; };
+		0B004FBE28D88ED100DBCC7B /* Netology_IB_Instruments in Resources */ = {isa = PBXBuildFile; fileRef = 0B004FBD28D88ED000DBCC7B /* Netology_IB_Instruments */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0B004FB228D7B25C00DBCC7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B004FB528D7B25C00DBCC7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0B004FB728D7B25C00DBCC7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0B004FBD28D88ED000DBCC7B /* Netology_IB_Instruments */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Netology_IB_Instruments; path = ../Netology_IB_Instruments; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		0B004F9D28D7B25900DBCC7B = {
 			isa = PBXGroup;
 			children = (
+				0B004FBD28D88ED000DBCC7B /* Netology_IB_Instruments */,
 				0B004FA828D7B25900DBCC7B /* Navigation */,
 				0B004FA728D7B25900DBCC7B /* Products */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B004FB628D7B25C00DBCC7B /* LaunchScreen.storyboard in Resources */,
+				0B004FBE28D88ED100DBCC7B /* Netology_IB_Instruments in Resources */,
 				0B004FB328D7B25C00DBCC7B /* Assets.xcassets in Resources */,
 				0B004FB128D7B25900DBCC7B /* Main.storyboard in Resources */,
 			);
